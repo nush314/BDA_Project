@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pkl
+
+# Large data files (too big for GitHub)
+clothing_1.5M_branded_only.csv
+clothing_1.5M_processed.csv
+clothing_1.5M_with_sentiment.csv
