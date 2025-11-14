@@ -1,0 +1,10 @@
+Feature,Importance
+total_customer_images,0.3874963575501492
+brand_reputation_score,0.2748047678008232
+early_sentiment,0.1292165450299491
+early_helpful_votes,0.0778557492715955
+early_avg_rating,0.03589621113820562
+early_review_velocity,0.03376156603049281
+early_verified_ratio,0.029932815182664742
+early_review_count,0.024229175053912404
+early_positive_ratio,0.006806812942207469
